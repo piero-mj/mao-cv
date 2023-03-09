@@ -1,0 +1,22 @@
+h1 {
+  margin: 0px;
+  font-size: 60px;
+  text-align: left;
+  /*-- border: 5px solid black; */
+}
+
+a,
+p,
+li {
+  font-size: 16px;
+  /* line-height 后面可以跟不同的参数，如果是数字，就是当前字体大小乘上数字 */
+  line-height: 2;
+  letter-spacing: 1px;
+  padding: 5px;
+  color: darkmagenta;
+}
+
+img {
+  display: block;
+  margin: 0px;
+}
